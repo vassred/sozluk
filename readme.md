@@ -1,0 +1,1 @@
+bu python projesi sozluk programı
